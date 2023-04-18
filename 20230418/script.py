@@ -1,0 +1,1 @@
+wiek = input("Ile masz lat")
